@@ -1,0 +1,21 @@
+﻿@model Works
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/AdminLayout/AdminLayout.cshtml";
+}
+
+<h1>Ekle</h1>
+
+<div class="m-3">  
+    <form method="post">
+        <label>Çalışma Adı</label>
+        <input type="text" asp-for="WorkName" class="form-control" />
+        <br />
+        <label>Çalışma Açıklaması</label>
+        <input type="text" asp-for="WorkDescription" class="form-control" />
+        <br />
+        <button class="btn btn-secondary ">İçeriği Ekle</button>
+
+    </form>
+</div>
+

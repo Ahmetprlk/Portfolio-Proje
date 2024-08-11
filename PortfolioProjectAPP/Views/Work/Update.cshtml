@@ -1,0 +1,21 @@
+﻿@model Works
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/AdminLayout/AdminLayout.cshtml";
+}
+
+<h1>Güncelle</h1>
+
+<div class="m-3">
+    <form method="post">
+        <input type="hidden" asp-for="WorkId" />
+        <label>Çalışma Adı</label>
+        <input type="text" asp-for="WorkName" class="form-control" />
+        <br />
+        <label>Çalışma Açıklaması</label>
+        <input type="text" asp-for="WorkDescription" class="form-control" />
+        <br />
+        <button class="btn btn-secondary ">İçeriği Güncelle</button>
+
+    </form>
+</div>

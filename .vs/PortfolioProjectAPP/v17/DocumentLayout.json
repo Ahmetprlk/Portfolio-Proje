@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|c:\\users\\hp\\source\\repos\\portfolioprojectapp\\portfolioprojectapp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|solutionrelative:portfolioprojectapp\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|c:\\users\\hp\\source\\repos\\portfolioprojectapp\\portfolioprojectapp\\wwwroot\\admin_tema\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|solutionrelative:portfolioprojectapp\\wwwroot\\admin_tema\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|c:\\users\\hp\\source\\repos\\portfolioprojectapp\\portfolioprojectapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|solutionrelative:portfolioprojectapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|c:\\users\\hp\\source\\repos\\portfolioprojectapp\\portfolioprojectapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A43DCF-460A-4575-9071-1271990229DF}|PortfolioProjectAPP\\PortfolioProjectAPP.csproj|solutionrelative:portfolioprojectapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\login.html",
+              "RelativeDocumentMoniker": "PortfolioProjectAPP\\wwwroot\\admin_tema\\login.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\login.html",
+              "RelativeToolTip": "PortfolioProjectAPP\\wwwroot\\admin_tema\\login.html",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-11T20:20:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "PortfolioProjectAPP\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "PortfolioProjectAPP\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T20:19:59.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PortfolioProjectAPP\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PortfolioProjectAPP\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:19:14.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioProjectAPP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PortfolioProjectAPP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T20:18:10.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

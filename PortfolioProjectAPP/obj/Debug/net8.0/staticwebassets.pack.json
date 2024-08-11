@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PortfolioProjectAPP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PortfolioProjectAPP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\401.html",
+      "PackagePath": "staticwebassets\\admin_tema\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\404.html",
+      "PackagePath": "staticwebassets\\admin_tema\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\500.html",
+      "PackagePath": "staticwebassets\\admin_tema\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin_tema\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin_tema\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin_tema\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin_tema\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin_tema\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\charts.html",
+      "PackagePath": "staticwebassets\\admin_tema\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin_tema\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\index.html",
+      "PackagePath": "staticwebassets\\admin_tema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin_tema\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin_tema\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admin_tema\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\layout-static.html",
+      "PackagePath": "staticwebassets\\admin_tema\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\login.html",
+      "PackagePath": "staticwebassets\\admin_tema\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\password.html",
+      "PackagePath": "staticwebassets\\admin_tema\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\register.html",
+      "PackagePath": "staticwebassets\\admin_tema\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\admin_tema\\tables.html",
+      "PackagePath": "staticwebassets\\admin_tema\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\logos\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\logos\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\logos\\ibm.svg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\logos\\ibm.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\navbar-logo.svg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\navbar-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\assets\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\assets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\css\\styles.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\index.html",
+      "PackagePath": "staticwebassets\\portfolio\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\PortfolioProjectAPP\\PortfolioProjectAPP\\wwwroot\\portfolio\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\portfolio\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortfolioProjectAPP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PortfolioProjectAPP.props",
+      "PackagePath": "build\\PortfolioProjectAPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioProjectAPP.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioProjectAPP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PortfolioProjectAPP.props",
+      "PackagePath": "buildTransitive\\PortfolioProjectAPP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

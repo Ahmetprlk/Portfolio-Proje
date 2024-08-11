@@ -1,0 +1,57 @@
+﻿@model List<Works> 
+
+
+@{
+    ViewData["Title"] = "WorkList";
+    Layout = "~/Views/AdminLayout/AdminLayout.cshtml";
+}
+
+<h1>Work List</h1>
+
+<div class="content">
+    <div class="container-fluid">
+        <h4>Çalışmalar</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            Tüm Çalışmalar
+                        </div>
+                    </div>
+
+                    <div class="card-body">
+                        <div> Çaılmaların hepsi listelenmektedir</div>
+                    </div>
+                    <table class="table mt-3"> 
+                        <thead>
+                            <tr>
+                                <th scope="col"> Sıra</th>
+                                <th scope="col"> İsim </th>
+                                <th scope="col"> Açıklama</th>
+
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach(var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.WorkId</td>
+                                    <td>@item.WorkName</td>
+                                    <td>@item.WorkDescription</td>
+                                    <td><a  href="/Work/Delete/@item.WorkId" class="btn btn-danger">Sil</a></td>
+                                    <td><a  href="/Work/Update/@item.WorkId" class="btn btn-warning"> Güncelle</a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a href="/Work/Add" class="btn btn-primary m-3">Yeni Çalışma Oluştur</a>
+</div>
